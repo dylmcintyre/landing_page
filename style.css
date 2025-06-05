@@ -1,0 +1,54 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+}
+body div{
+    flex-grow: 1;
+}
+
+.one.section{
+    background-color: #1f2937
+}
+
+.one.section *{
+    font-family:'Roboto', Courier, monospace;
+}
+
+.header-logo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-logo div{
+    font-size: 24px;
+    color: #f9faf8
+}
+
+li a{
+    font-size: 18px;
+    color: #E5E7EB;
+    text-decoration: none
+}
+
+ul{
+    list-style: none
+    display
+    
+}
+
+li{
+    display: inline;
+}
+
+.awesome{
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.two.section{
+    display: flex;
+}
